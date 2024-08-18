@@ -13,13 +13,18 @@
         
 
     </div>
+
+    <div class="mid-info">
+        <p class="mid-info-title">Oferta Académica</p>
+        <p class="mid-info-desc">Decídete y escoge, que quieres estudiar</p>
+    </div>
+    
     <div class="card-list">
         
 
     </div>
 
-
 </body>
 
 
-<?php require_once "./parte_inferior.php"        ?>
+<?php require_once "./parte_inferior.php" ?>
